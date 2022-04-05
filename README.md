@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kazi, a NYC-based software engineer in the making.
 - :bulb: I decided to pursue software engineering after taking introductory level web development course in my last semester
-- 🌱 I’m currently learning Javascript and its popular frameworks.
+- 🌱 I’m currently enrolled at Fullstack Academy and learning fullstack development with Javascript 
 - 📫 I can be reached at kaaziahmed@gmail.com
 
 <!---
